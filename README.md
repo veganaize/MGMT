@@ -1,2 +1,5 @@
 # MGMT
-Management related resources.
+
+* Lead with empathy.
+* Assume good intent.
+* Say the 3rd thing.
