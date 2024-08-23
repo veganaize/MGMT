@@ -16,4 +16,7 @@
 * Have grit.
 * Absorb feedback.
 
-_2/3 pulled from [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)_
+---
+
+* [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
+* [Valve: Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
