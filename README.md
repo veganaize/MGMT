@@ -20,7 +20,7 @@
 
 * Don't steamroll.
 * Respond positively to the other side of the conversation before dumping info.
-* Don't info dump.
+* Avoid info dumping.
 
 ---
 
