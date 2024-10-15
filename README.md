@@ -24,5 +24,11 @@
 
 ---
 
+* Solve problems as they arise.
+* Provide consistent and clear feedback to help people work more effectively and efficiently.
+* Automate repetitive, routine tasks.
+
+---
+
 * [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 * [Valve: Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
