@@ -36,5 +36,11 @@
 
 ---
 
+* Explain the reason.
+* Foster learning & creativity.
+* Understand (career) goals of team members.
+
+---
+
 * [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 * [Valve: Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
