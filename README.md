@@ -42,5 +42,20 @@
 
 ---
 
+## Questions team members ask themselves
+- Am I happy with my job?
+- Do I like my manager? My team?
+- Is this project I’m working on fulfilling?
+- Am I learning?
+- Am I respected?
+- Am I growing?
+- Do I feel fairly compensated?
+- Is this company/team going anywhere?
+- Do I believe in the vision?
+- Do I trust the leaders?
+
+---
+
 * [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 * [Valve: Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
+* [Shields Down](https://randsinrepose.com/archives/shields-down/)
