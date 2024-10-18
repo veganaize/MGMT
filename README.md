@@ -30,5 +30,11 @@
 
 ---
 
+* Always be respectful.
+* Make things fun; not frustrating.
+* Take responsibility for the well-being of your team.
+
+---
+
 * [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 * [Valve: Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
