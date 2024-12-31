@@ -59,3 +59,16 @@
 * [James Shore](https://www.jamesshore.com/v2/blog/2024/a-software-engineering-career-ladder)
 * [Valve: Handbook for New Employees](https://steamcdn-a.akamaihd.net/apps/valve/Valve_NewEmployeeHandbook.pdf)
 * [Shields Down](https://randsinrepose.com/archives/shields-down/)
+
+---
+
+## Meetings
+
+* [Buzzword Bingo](https://lurkertech.com/buzzword-bingo/)
+
+---
+
+## Writing
+
+* [Common Bugs in Writing](https://www.cs.columbia.edu/~hgs/etc/writing-bugs.html)
+* [Plain Language Guidelines](https://www.plainlanguage.gov/guidelines/) ([pdf](https://www.plainlanguage.gov/media/FederalPLGuidelines.pdf))
